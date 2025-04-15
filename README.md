@@ -39,6 +39,10 @@ The analysis was conducted using Python and the following libraries:
 
 Google Colab was used as the working environment, and Google Drive was mounted for data access.
 
+## Dataset Information
+
+* Source: [Customer Shopping (Latest Trends) Dataset](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset)
+
 ##  Notes
 Data was securely accessed via Google Drive using Colab.
 
